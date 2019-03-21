@@ -1,6 +1,6 @@
 # Night_Light - The darkness need some light
-
-## Night Light 是一个简单、灵活的小夜灯项目
+![ico]https://github.com/728528678/Night_Light/blob/master/picture/Nlight_ico.png
+## Night Light 是一个简单、灵活的小夜灯项目,要完成它你可能需要准备一下材料
 
 ### 元件清单
 * 主控:		STM32F030F4P6		*1
@@ -11,9 +11,10 @@
 * USB转TTL:	CH340C				*1
 * 二极管:	1N4148				*1
 * 接插件:	4p排座	*1	4p排针	*1
-* led灯:		白色贴片led			*4
+* led灯:	白色贴片led			*4
 * 电阻:		10KΩ	*6	1KΩ		*7
 * USB接口:	TypeC 16pin 母座	*1
 * 灯珠:		ws2812				*8
 * 主控板:	NL_CTL2.0			*1
 * 灯板:		NL_RGB2.0			*1
+
