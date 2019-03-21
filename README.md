@@ -1,6 +1,6 @@
 # Night_Light - The darkness need some light
 ![](https://github.com/728528678/Night_Light/blob/master/picture/Nlight_ico.jpg)
-## Night Light 是一个简单、灵活的小夜灯项目,要完成它你可能需要准备一下材料
+## Night Light 是一个简单、灵活的小夜灯项目,要完成它你可能需要准备以下材料
 
 ### 元件清单
 * 主控:		STM32F030F4P6		*1
