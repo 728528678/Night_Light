@@ -1,5 +1,5 @@
 # Night_Light - The darkness need some light
-![ico]https://github.com/728528678/Night_Light/blob/master/picture/Nlight_ico.png
+![](https://github.com/728528678/Night_Light/blob/master/picture/Nlight_ico.jpg)
 ## Night Light 是一个简单、灵活的小夜灯项目,要完成它你可能需要准备一下材料
 
 ### 元件清单
