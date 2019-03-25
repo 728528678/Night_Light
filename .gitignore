@@ -1,0 +1,28 @@
+﻿# 此为注释 – 将被 Git 忽略 
+#*.a       # 忽略所有 .a 结尾的文件
+#!lib.a    # 但 lib.a 除外
+#/TODO     # 仅仅忽略项目根目录下的 TODO 文件，不包括 subdir/TODO
+#build/    # 忽略 build/ 目录下的所有文件
+#doc/*.txt # 会忽略 doc/notes.txt 但不包括 doc/server/arch.txt
+# 配置语法：
+
+#　　以斜杠“/”开头表示目录；
+
+#　　以星号“*”通配多个字符；
+
+#　　以问号“?”通配单个字符
+
+#　　以方括号“[]”包含单个字符的匹配列表；
+
+#　　以叹号“!”表示不忽略(跟踪)匹配到的文件或目录；
+
+CODE/RGBLED/OBJ/
+Debug/
+NL_PCB/__Previews
+NL_PCB/History
+NL_PCB/Project Outputs for NL_PCB_Project
+NL_PCB/*.htm
+NL_PCB/*.Dat
+NL_PCB/*.PrjPCBStructure
+NL_PCB/*.SCHLIB
+NL_PCB/*.PcbLib
