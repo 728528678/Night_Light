@@ -26,3 +26,9 @@ NL_PCB/*.Dat
 NL_PCB/*.PrjPCBStructure
 NL_PCB/*.SCHLIB
 NL_PCB/*.PcbLib
+CODE/MDK-ARM/NLight_L/*
+!CODE/MDK-ARM/NLight_L/NLight_L.hex
+CODE/MDK-ARM/*.uvoptx
+CODE/MDK-ARM/JLinkLog.txt
+CODE/MDK-ARM/JLinkSettings.ini
+CODE/MDK-ARM/NLight_L.uvguix.*
